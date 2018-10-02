@@ -110,3 +110,20 @@ header *{
 main article img{
     width: 50vh;
 }
+
+.button{
+    text-decoration: none;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;   
+    padding-left: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    margin: 5px;
+    font-family: 'Cuprum', sans-serif;
+    background-color: #ff7e00;
+    border-radius: 6px;
+    cursor: pointer;
+}
