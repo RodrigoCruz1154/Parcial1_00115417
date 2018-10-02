@@ -135,10 +135,41 @@ main article img{
 }
 img.crop{
     margin:-20px -15px -40px -55px;
-    width: 152vh;
+    width: 200px;
 }
 
 footer{
     color: white;
     background-color: #000000;
+}
+.lol{
+    width: 150vh;
+    margin:.5em 10px .5em 0;
+    overflow: hidden;
+}
+
+.contactUs{
+    text-decoration: none;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;   
+    padding-left: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    margin: 5px;
+    background-color: gray;
+    opacity: 50;
+    border-radius: 6px;
+}
+
+.sectionFooter{
+    display: inline-block;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.sectionFooter ul{
+ list-style: none;   
 }
